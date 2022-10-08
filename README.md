@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @davidddfm
+- 👀 I’m interested in creating simple solutions for difficult problems!
+- 🌱 I’m currently learning design patterns and kafka!
+- 💞️ I’m looking to collaborate on open source projects
