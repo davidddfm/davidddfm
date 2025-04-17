@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @davidddfm
 - 👀 I’m interested in creating simple solutions for difficult problems!
-- 🌱 I’m currently learning design patterns and Python!
+- 🧑🏻‍💻 Indie hacker!
 - 💞️ I’m looking to collaborate on open source projects
